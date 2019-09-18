@@ -1,5 +1,4 @@
 #!/bin/bash
-
 IDP_HOST=idp.ssocircle.com
 IDP_PORT=443
 CERTIFICATE_FILE=ssocircle.cert
